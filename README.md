@@ -26,16 +26,11 @@ Before using this web scraping project, you will need the following prerequisite
 
 ## Installation
 
-Provide instructions on how to install and set up your project, including any dependencies.
+Install Selenium Webdriver and BeautifulSoup to run this project.
+This project aims to gather property data from the website with the use of Selenium and BeautifulSoup
 
 ## Usage
 
-Explain how to use your web scraping project. Include code examples, if applicable.
-
-## Project Structure
-
-Describe the structure of your project's directories and files. Explain the purpose of each major file or module.
-
-## Contributing
-
-If you welcome contributions from others, explain how they can contribute to your project and any guidelines they should follow.
+-> Be up to date on Property Data.
+-> No need to do any hardwork it's web automation.
+-> Just one Click and the program will start running.
