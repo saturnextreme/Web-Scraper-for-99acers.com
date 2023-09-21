@@ -31,6 +31,6 @@ This project aims to gather property data from the website with the use of Selen
 
 ## Usage
 
--> Be up to date on Property Data.
--> No need to do any hardwork it's web automation.
--> Just one Click and the program will start running.
+  - Be up to date on Property Data.
+  - No need to do any hardwork it's web automation.
+  - Just one Click and the program will start running.
